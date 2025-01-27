@@ -2,7 +2,7 @@
 
 // FOR STATELESS AUTH //
 const jwt = require("jsonwebtoken");
-const secret = "Sahil$789";
+const secret = "";
 
 // function setUser(id, user) {
 //   sessionIdToUserMap.set(id, user); // stores the user info with session ID as key //
